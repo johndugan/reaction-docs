@@ -95,10 +95,10 @@ Now we need to change the entry in our layout record in our `register.js` file. 
 
 When the site is rendered now, it should be rendering the home page with the `productsLanding` template, rather than the default `products`.
 
-Next: [Fixtures](/developers/tutorial/plugin-fixtures-5)
+Next: [Fixtures](/developers/tutorial/plugin-fixtures-5.md)
 
 ## Read More
 
-[Blaze Templates](http://blazejs.org/api/blaze.html)
+[Blaze Templates](http://blazejs.org/api/blaze.html.md)
 
-[Blaze Layout Manager](https://github.com/kadirahq/blaze-layout)
+[Blaze Layout Manager](https://github.com/kadirahq/blaze-layout.md)

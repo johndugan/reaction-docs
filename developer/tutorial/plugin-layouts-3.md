@@ -130,8 +130,8 @@ Also note that we have other parts that we could substitute without
 changing our layout. For example we change point our header or footer to
 a custom template by changing the values for "layoutHeader" or "layoutFooter".
 
-Next: [Customizing Templates](/developer/tutorial/plugin-customizing-templates-4)
+Next: [Customizing Templates](/developer/tutorial/plugin-customizing-templates-4.md)
 
 ## Read More
 
-[Layouts](/developer/architecture/layout)
+[Layouts](/developer/architecture/layout.md)
